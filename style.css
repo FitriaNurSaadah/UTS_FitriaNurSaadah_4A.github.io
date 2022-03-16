@@ -1,0 +1,27 @@
+.banner{
+    background: url("img/14.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 15%;
+    padding-bottom:15%;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.crop-img{
+    object-fit: cover;
+
+}
+
+.client img{
+   height: auto;
+   max-height: 50px; 
+}
+
+.kontak{
+    background: url(img/rr.webp) no-repeat center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+}
+
